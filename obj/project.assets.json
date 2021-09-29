@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\johnn\\git\\DIO_BANCK\\DIO_BANCK.csproj",
+      "projectUniqueName": "C:\\workspace\\git\\DIO_BANCK\\DIO_BANCK.csproj",
       "projectName": "DIO_BANCK",
-      "projectPath": "C:\\Users\\johnn\\git\\DIO_BANCK\\DIO_BANCK.csproj",
+      "projectPath": "C:\\workspace\\git\\DIO_BANCK\\DIO_BANCK.csproj",
       "packagesPath": "C:\\Users\\johnn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\johnn\\git\\DIO_BANCK\\obj\\",
+      "outputPath": "C:\\workspace\\git\\DIO_BANCK\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\johnn\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
